@@ -1,0 +1,1 @@
+python opencv_ocr_image.py --east frozen_east_text_detection.pb -i images\sign.jpg
