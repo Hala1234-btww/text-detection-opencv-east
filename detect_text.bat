@@ -1,0 +1,1 @@
+python opencv_text_detection_image.py --east frozen_east_text_detection.pb -i %1 -w %2 -e %2
