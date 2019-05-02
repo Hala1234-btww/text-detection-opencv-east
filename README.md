@@ -1,3 +1,10 @@
+```
+Collect source code from
+* https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV
+* https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
+* https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
+```
+
 # EAST Detector for Text Detection
 
 OpenCV’s EAST(Efficient and Accurate Scene Text Detection ) text detector is a deep learning model, based on a novel architecture and training pattern. It is capable of 
